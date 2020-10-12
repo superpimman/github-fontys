@@ -1,0 +1,10 @@
+D:\Fontys\software\worpengenerator\worpengenerator\bin\Debug\worpengenerator.exe.config
+D:\Fontys\software\worpengenerator\worpengenerator\bin\Debug\worpengenerator.exe
+D:\Fontys\software\worpengenerator\worpengenerator\bin\Debug\worpengenerator.pdb
+D:\Fontys\software\worpengenerator\worpengenerator\obj\Debug\worpengenerator.csprojAssemblyReference.cache
+D:\Fontys\software\worpengenerator\worpengenerator\obj\Debug\worpengenerator.Form1.resources
+D:\Fontys\software\worpengenerator\worpengenerator\obj\Debug\worpengenerator.Properties.Resources.resources
+D:\Fontys\software\worpengenerator\worpengenerator\obj\Debug\worpengenerator.csproj.GenerateResource.cache
+D:\Fontys\software\worpengenerator\worpengenerator\obj\Debug\worpengenerator.csproj.CoreCompileInputs.cache
+D:\Fontys\software\worpengenerator\worpengenerator\obj\Debug\worpengenerator.exe
+D:\Fontys\software\worpengenerator\worpengenerator\obj\Debug\worpengenerator.pdb

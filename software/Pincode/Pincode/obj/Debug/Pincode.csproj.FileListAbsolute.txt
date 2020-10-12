@@ -1,0 +1,5 @@
+D:\Fontys\software\Pincode\Pincode\obj\Debug\Pincode.csprojAssemblyReference.cache
+D:\Fontys\software\Pincode\Pincode\obj\Debug\Pincode.Form1.resources
+D:\Fontys\software\Pincode\Pincode\obj\Debug\Pincode.Properties.Resources.resources
+D:\Fontys\software\Pincode\Pincode\obj\Debug\Pincode.csproj.GenerateResource.cache
+D:\Fontys\software\Pincode\Pincode\obj\Debug\Pincode.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+D:\Fontys\software\pincode2\pincode2\obj\Debug\pincode2.csprojAssemblyReference.cache
+D:\Fontys\software\pincode2\pincode2\obj\Debug\pincode2.Form1.resources
+D:\Fontys\software\pincode2\pincode2\obj\Debug\pincode2.Properties.Resources.resources
+D:\Fontys\software\pincode2\pincode2\obj\Debug\pincode2.csproj.GenerateResource.cache
+D:\Fontys\software\pincode2\pincode2\obj\Debug\pincode2.csproj.CoreCompileInputs.cache
+D:\Fontys\software\pincode2\pincode2\bin\Debug\pincode2.exe.config
+D:\Fontys\software\pincode2\pincode2\bin\Debug\pincode2.exe
+D:\Fontys\software\pincode2\pincode2\bin\Debug\pincode2.pdb
+D:\Fontys\software\pincode2\pincode2\obj\Debug\pincode2.exe
+D:\Fontys\software\pincode2\pincode2\obj\Debug\pincode2.pdb

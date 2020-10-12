@@ -1,0 +1,15 @@
+D:\Fontys\software\Random number picker\Random number picker\bin\Debug\netcoreapp3.1\Random number picker.exe
+D:\Fontys\software\Random number picker\Random number picker\bin\Debug\netcoreapp3.1\Random number picker.deps.json
+D:\Fontys\software\Random number picker\Random number picker\bin\Debug\netcoreapp3.1\Random number picker.runtimeconfig.json
+D:\Fontys\software\Random number picker\Random number picker\bin\Debug\netcoreapp3.1\Random number picker.runtimeconfig.dev.json
+D:\Fontys\software\Random number picker\Random number picker\bin\Debug\netcoreapp3.1\Random number picker.dll
+D:\Fontys\software\Random number picker\Random number picker\bin\Debug\netcoreapp3.1\Random number picker.pdb
+D:\Fontys\software\Random number picker\Random number picker\obj\Debug\netcoreapp3.1\Random number picker.csprojAssemblyReference.cache
+D:\Fontys\software\Random number picker\Random number picker\obj\Debug\netcoreapp3.1\Random_number_picker.Form1.resources
+D:\Fontys\software\Random number picker\Random number picker\obj\Debug\netcoreapp3.1\Random number picker.csproj.GenerateResource.cache
+D:\Fontys\software\Random number picker\Random number picker\obj\Debug\netcoreapp3.1\Random number picker.AssemblyInfoInputs.cache
+D:\Fontys\software\Random number picker\Random number picker\obj\Debug\netcoreapp3.1\Random number picker.AssemblyInfo.cs
+D:\Fontys\software\Random number picker\Random number picker\obj\Debug\netcoreapp3.1\Random number picker.csproj.CoreCompileInputs.cache
+D:\Fontys\software\Random number picker\Random number picker\obj\Debug\netcoreapp3.1\Random number picker.dll
+D:\Fontys\software\Random number picker\Random number picker\obj\Debug\netcoreapp3.1\Random number picker.pdb
+D:\Fontys\software\Random number picker\Random number picker\obj\Debug\netcoreapp3.1\Random number picker.genruntimeconfig.cache

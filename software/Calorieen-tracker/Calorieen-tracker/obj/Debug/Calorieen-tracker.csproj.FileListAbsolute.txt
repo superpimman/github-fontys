@@ -1,0 +1,8 @@
+D:\Fontys\software\Calorieen-tracker\Calorieen-tracker\obj\Debug\Calorieen-tracker.csprojAssemblyReference.cache
+D:\Fontys\software\Calorieen-tracker\Calorieen-tracker\obj\Debug\Calorieen_tracker.UserControl1.resources
+D:\Fontys\software\Calorieen-tracker\Calorieen-tracker\obj\Debug\Calorieen-tracker.csproj.GenerateResource.cache
+D:\Fontys\software\Calorieen-tracker\Calorieen-tracker\obj\Debug\Calorieen-tracker.csproj.CoreCompileInputs.cache
+D:\Fontys\software\Calorieen-tracker\Calorieen-tracker\bin\Debug\Calorieen-tracker.dll
+D:\Fontys\software\Calorieen-tracker\Calorieen-tracker\bin\Debug\Calorieen-tracker.pdb
+D:\Fontys\software\Calorieen-tracker\Calorieen-tracker\obj\Debug\Calorieen-tracker.dll
+D:\Fontys\software\Calorieen-tracker\Calorieen-tracker\obj\Debug\Calorieen-tracker.pdb

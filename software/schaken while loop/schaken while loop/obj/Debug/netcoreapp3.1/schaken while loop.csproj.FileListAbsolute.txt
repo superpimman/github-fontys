@@ -1,0 +1,15 @@
+D:\Fontys\software\schaken while loop\schaken while loop\bin\Debug\netcoreapp3.1\schaken while loop.exe
+D:\Fontys\software\schaken while loop\schaken while loop\bin\Debug\netcoreapp3.1\schaken while loop.deps.json
+D:\Fontys\software\schaken while loop\schaken while loop\bin\Debug\netcoreapp3.1\schaken while loop.runtimeconfig.json
+D:\Fontys\software\schaken while loop\schaken while loop\bin\Debug\netcoreapp3.1\schaken while loop.runtimeconfig.dev.json
+D:\Fontys\software\schaken while loop\schaken while loop\bin\Debug\netcoreapp3.1\schaken while loop.dll
+D:\Fontys\software\schaken while loop\schaken while loop\bin\Debug\netcoreapp3.1\schaken while loop.pdb
+D:\Fontys\software\schaken while loop\schaken while loop\obj\Debug\netcoreapp3.1\schaken while loop.csprojAssemblyReference.cache
+D:\Fontys\software\schaken while loop\schaken while loop\obj\Debug\netcoreapp3.1\schaken_while_loop.Form1.resources
+D:\Fontys\software\schaken while loop\schaken while loop\obj\Debug\netcoreapp3.1\schaken while loop.csproj.GenerateResource.cache
+D:\Fontys\software\schaken while loop\schaken while loop\obj\Debug\netcoreapp3.1\schaken while loop.AssemblyInfoInputs.cache
+D:\Fontys\software\schaken while loop\schaken while loop\obj\Debug\netcoreapp3.1\schaken while loop.AssemblyInfo.cs
+D:\Fontys\software\schaken while loop\schaken while loop\obj\Debug\netcoreapp3.1\schaken while loop.csproj.CoreCompileInputs.cache
+D:\Fontys\software\schaken while loop\schaken while loop\obj\Debug\netcoreapp3.1\schaken while loop.dll
+D:\Fontys\software\schaken while loop\schaken while loop\obj\Debug\netcoreapp3.1\schaken while loop.pdb
+D:\Fontys\software\schaken while loop\schaken while loop\obj\Debug\netcoreapp3.1\schaken while loop.genruntimeconfig.cache

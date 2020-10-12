@@ -1,0 +1,10 @@
+D:\Fontys\software\PROJECT 1\PROJECT 1\obj\Debug\PROJECT 1.csprojAssemblyReference.cache
+D:\Fontys\software\PROJECT 1\PROJECT 1\obj\Debug\PROJECT_1.Form1.resources
+D:\Fontys\software\PROJECT 1\PROJECT 1\obj\Debug\PROJECT_1.Properties.Resources.resources
+D:\Fontys\software\PROJECT 1\PROJECT 1\obj\Debug\PROJECT 1.csproj.GenerateResource.cache
+D:\Fontys\software\PROJECT 1\PROJECT 1\obj\Debug\PROJECT 1.csproj.CoreCompileInputs.cache
+D:\Fontys\software\PROJECT 1\PROJECT 1\bin\Debug\PROJECT 1.exe.config
+D:\Fontys\software\PROJECT 1\PROJECT 1\bin\Debug\PROJECT 1.exe
+D:\Fontys\software\PROJECT 1\PROJECT 1\bin\Debug\PROJECT 1.pdb
+D:\Fontys\software\PROJECT 1\PROJECT 1\obj\Debug\PROJECT 1.exe
+D:\Fontys\software\PROJECT 1\PROJECT 1\obj\Debug\PROJECT 1.pdb
