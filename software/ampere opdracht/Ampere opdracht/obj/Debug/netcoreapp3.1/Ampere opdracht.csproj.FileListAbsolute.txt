@@ -1,0 +1,15 @@
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\bin\Debug\netcoreapp3.1\Ampere opdracht.exe
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\bin\Debug\netcoreapp3.1\Ampere opdracht.deps.json
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\bin\Debug\netcoreapp3.1\Ampere opdracht.runtimeconfig.json
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\bin\Debug\netcoreapp3.1\Ampere opdracht.runtimeconfig.dev.json
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\bin\Debug\netcoreapp3.1\Ampere opdracht.dll
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\bin\Debug\netcoreapp3.1\Ampere opdracht.pdb
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\obj\Debug\netcoreapp3.1\Ampere opdracht.csprojAssemblyReference.cache
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\obj\Debug\netcoreapp3.1\Ampere_opdracht.Form1.resources
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\obj\Debug\netcoreapp3.1\Ampere opdracht.csproj.GenerateResource.cache
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\obj\Debug\netcoreapp3.1\Ampere opdracht.AssemblyInfoInputs.cache
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\obj\Debug\netcoreapp3.1\Ampere opdracht.AssemblyInfo.cs
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\obj\Debug\netcoreapp3.1\Ampere opdracht.csproj.CoreCompileInputs.cache
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\obj\Debug\netcoreapp3.1\Ampere opdracht.dll
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\obj\Debug\netcoreapp3.1\Ampere opdracht.pdb
+C:\Users\pimt1\source\repos\Ampere opdracht\Ampere opdracht\obj\Debug\netcoreapp3.1\Ampere opdracht.genruntimeconfig.cache

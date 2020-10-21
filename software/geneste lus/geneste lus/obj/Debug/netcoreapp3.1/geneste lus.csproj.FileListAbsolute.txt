@@ -1,0 +1,15 @@
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\bin\Debug\netcoreapp3.1\geneste lus.exe
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\bin\Debug\netcoreapp3.1\geneste lus.deps.json
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\bin\Debug\netcoreapp3.1\geneste lus.runtimeconfig.json
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\bin\Debug\netcoreapp3.1\geneste lus.runtimeconfig.dev.json
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\bin\Debug\netcoreapp3.1\geneste lus.dll
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\bin\Debug\netcoreapp3.1\geneste lus.pdb
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\obj\Debug\netcoreapp3.1\geneste lus.csprojAssemblyReference.cache
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\obj\Debug\netcoreapp3.1\geneste_lus.Form1.resources
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\obj\Debug\netcoreapp3.1\geneste lus.csproj.GenerateResource.cache
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\obj\Debug\netcoreapp3.1\geneste lus.AssemblyInfoInputs.cache
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\obj\Debug\netcoreapp3.1\geneste lus.AssemblyInfo.cs
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\obj\Debug\netcoreapp3.1\geneste lus.csproj.CoreCompileInputs.cache
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\obj\Debug\netcoreapp3.1\geneste lus.dll
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\obj\Debug\netcoreapp3.1\geneste lus.pdb
+C:\Users\pimt1\source\repos\geneste lus\geneste lus\obj\Debug\netcoreapp3.1\geneste lus.genruntimeconfig.cache

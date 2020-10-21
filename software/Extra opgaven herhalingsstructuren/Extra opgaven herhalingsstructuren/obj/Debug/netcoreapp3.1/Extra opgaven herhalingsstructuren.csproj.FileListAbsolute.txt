@@ -1,0 +1,15 @@
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\bin\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.exe
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\bin\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.deps.json
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\bin\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.runtimeconfig.json
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\bin\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.runtimeconfig.dev.json
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\bin\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.dll
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\bin\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.pdb
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\obj\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.csprojAssemblyReference.cache
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\obj\Debug\netcoreapp3.1\Extra_opgaven_herhalingsstructuren.Form1.resources
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\obj\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.csproj.GenerateResource.cache
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\obj\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.AssemblyInfoInputs.cache
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\obj\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.AssemblyInfo.cs
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\obj\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.csproj.CoreCompileInputs.cache
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\obj\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.dll
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\obj\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.pdb
+C:\Users\pimt1\source\repos\Extra opgaven herhalingsstructuren\Extra opgaven herhalingsstructuren\obj\Debug\netcoreapp3.1\Extra opgaven herhalingsstructuren.genruntimeconfig.cache

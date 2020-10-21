@@ -76,45 +76,10 @@ namespace worpengenerator
             Aantal.Text = Convert.ToString(sum);
         }
 
-        public string AddMethod()
-        {
-
-            // GooiDobbelsteen.Click += GooiDobbelsteen_Click;
-
-            int totaalWorpen = Convert.ToInt32(worpennumericUpDown1.Value);
-
-            Random nummer = new Random();
-            int totaalOgen = Convert.ToInt32(ogennumericUpDown2.Value);
-            string listbox1 = Convert.ToString(nummer.Next(1, totaalOgen));
-            
-            
-            int antwoord = totaalWorpen * Convert.ToInt32(listbox1);
-            
-            
-            
-            string uitkomst = Convert.ToString(antwoord);
-            
-            listBox1.Items.Add(uitkomst);
-
-            decimal sum = 0;
-            for (int i = 0; i < listBox1.Items.Count; i++)
-            {
-                sum += Convert.ToDecimal(listBox1.Items[i]);
-            }
-            Aantal.Text = Convert.ToString(sum);
-
-
-            return listbox1;
+        
 
             
-             
-
-           
-
-
-
-
-        }
+   
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geneste lus", "geneste lus\geneste lus.csproj", "{C77C7E5B-3F00-4AB0-AD66-FB48517BDD88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C77C7E5B-3F00-4AB0-AD66-FB48517BDD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77C7E5B-3F00-4AB0-AD66-FB48517BDD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77C7E5B-3F00-4AB0-AD66-FB48517BDD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77C7E5B-3F00-4AB0-AD66-FB48517BDD88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4161D53F-DD3B-405B-AC01-3357A84F369A}
+	EndGlobalSection
+EndGlobal
